@@ -26,10 +26,12 @@ h1 {
     margin-right: 100px;
     border-radius: 4%;
     width: 300px;
+    
 }
 
 .cabecalho p {
     flex: 1;
+    width: 80%;
 }
 
 ul {
