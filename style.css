@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #99aab5;
     font-family: 'Inter', sans-serif;
     color: black;
 }
@@ -13,10 +13,9 @@ body {
     border-radius: 50px;
     margin-left: 50px;
     margin-top: 20px;
-    background: #e0e0e0;
-    box-shadow:  35px 35px 70px #bebebe,
-             -35px -35px 70px #ffffff;
-
+    background: #99aab5;
+box-shadow:  20px 20px 60px #82919a,
+             -20px -20px 60px #b0c4d0;
 }
 
 
@@ -31,9 +30,9 @@ body {
     font-size: 120%;
     margin-top: 20px;
     line-height: 1.5;
-    background: #e0e0e0;
-    box-shadow:  35px 35px 70px #bebebe,
-             -35px -35px 70px #ffffff;
+    background: #99aab5;
+box-shadow:  20px 20px 60px #82919a,
+             -20px -20px 60px #b0c4d0;
 
 } 
 
@@ -58,10 +57,9 @@ body {
     border-radius: 50px;
     
     line-height: 2.5;
-    background: #e0e0e0;
-    box-shadow:  35px 35px 70px #bebebe,
-             -35px -35px 70px #ffffff;
-
+    background: #99aab5;
+box-shadow:  20px 20px 60px #82919a,
+             -20px -20px 60px #b0c4d0;
 
 
 
@@ -78,12 +76,11 @@ body {
     border-radius: 50px;
     line-height: 2.5;
     line-height: 2.5;
-    background: #e0e0e0;
-    box-shadow:  35px 35px 70px #bebebe,
-             -35px -35px 70px #ffffff;
+    background: #99aab5;
+box-shadow:  20px 20px 60px #82919a,
+             -20px -20px 60px #b0c4d0;
+    
 }
-
-
    
 
 .icone {
@@ -97,4 +94,21 @@ body {
 h2 {
     text-align: center;
     font-size: 150%;
+}
+
+.lista1:hover {
+    background-color: #7289da;
+    transform: scale(1.02);
+    transition: 500ms linear;
+}
+
+.lista2:hover {
+    background-color: #7289da;
+    transform: scale(1.02);
+    transition: 500ms linear;
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }
